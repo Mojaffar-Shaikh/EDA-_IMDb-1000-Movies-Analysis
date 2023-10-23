@@ -13,11 +13,12 @@ To have the aforementioned requirement fulfilled, performing an Exploratory Data
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Following are the pointers have been taken into considerations for the analysis:
-i.	Yearly release trend analysis
-ii.	Yearly revenue trend analysis
-iii.	Genre analysis
-iv.	Director analysis
-v.	Actor analysis
-vi.	Viewers & critics analysis
+
+- Yearly release trend analysis
+- Yearly revenue trend analysis
+- Genre analysis
+- Director analysis
+- Actor analysis
+- Viewers & critics analysis
 
 For detailed analysis, insights, codes, graphs, observations, conclusions & actionable insights, please refer to the project
