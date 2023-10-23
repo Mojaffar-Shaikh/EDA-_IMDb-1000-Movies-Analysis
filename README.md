@@ -1,4 +1,5 @@
 # Project_Exploratory Data Analysis on IMDb 1000 movies Dataset
+
 Entertainment Industry is ever-growing high value earning sector in terms of revenue. And along with success, the popularity, wealth, fame and acclaim it brings are unparallel.
 
 Therefore, this industry not only attracts aspiring actors, directors or individuals with related technical backgrounds but it also attracts a lot of wealthy investors who look to grow their wealth.
